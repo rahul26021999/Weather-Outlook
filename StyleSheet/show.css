@@ -1,0 +1,134 @@
+body {
+    background-color: blueviolet;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: 900;
+    color: white;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#wrapper {
+    color: white;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+hr {
+    margin: 0px 10px;
+}
+
+#box {
+    border: 0px;
+    width: 150px;
+    height: 150px;
+    margin: 3px;
+    padding: 10px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+#box:hover {
+    margin: 3px;
+    background: #ffffff0a;
+    padding: 9px;
+    border: 1px solid white;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#high_temp {
+    display: inline-block;
+    font-size: 20px;
+}
+
+#low_temp {
+    display: inline-block;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.degree {
+    width: 10px;
+    height: 10px;
+    font-size: 10px;
+    color: white;
+}
+
+#summary {
+    font-size: 10px;
+    height: 20px;
+    line-height: 20px;
+    overflow: hidden;
+}
+
+.temp_icon {
+    margin-left: 5px;
+}
+
+.main_icon {
+    margin: 5px;
+    font-size: 25px;
+}
+
+.main_date {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.main_temperature {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+.main_summary {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.main_wind {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.main_visibility {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.main_humidity {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.main_big_icon {
+    font-size: 40px;
+    margin: 1px;
+    display: block;
+    color: white;
+    text-align: center;
+}
+
+.marginTop {
+    margin-top: 30px;
+}
