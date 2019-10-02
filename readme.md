@@ -26,12 +26,13 @@ Make a File API_KEY.php and Add below code to that file and replace API_KEY_HERE
 * It also shows hourly forecasting of 48 hours
 * It has adaptive icons which automatically changes according to the weather change
 
+
 ## screen 1
-<img src="" height="100px"/>
+<img src="https://user-images.githubusercontent.com/35486010/66045963-5cdb7800-e542-11e9-99e0-8d297dc322f7.PNG" alt="screen 1" height="100px"/>
 
 ## screen 2
-<img src="" height="100px"/>
+<img alt="screen 2" src="https://user-images.githubusercontent.com/35486010/66045854-256ccb80-e542-11e9-99e1-ae126f8204fb.PNG" height="100px"/>
 
 ## screen
-<img src="" height="100px"/>
+<img src="https://user-images.githubusercontent.com/35486010/66045959-5c42e180-e542-11e9-88d0-becfb5c4d12a.PNG" alt="screen 3" height="100px"/>
 
