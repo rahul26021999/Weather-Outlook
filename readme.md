@@ -12,7 +12,7 @@ Php
 
 ## ThingsToDo
 >Make a File API_KEY.php and Add below code to that file and replace API_KEY_HERE with your api key
-    /</?php echo "API_KEY_HERE"; /?/>
+	/<?php echo "API_KEY_HERE";?>
 
 ## Keypoints:
 * App has an option to select unit of temperature i.e; Celcius or Fahrenheit
