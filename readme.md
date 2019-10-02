@@ -1,18 +1,20 @@
 # Weather Outlook
+
+## About
 Forecast Weather of your current location or the location entered by you.
 
-# Tools Used
+## Tools Used
 HTML, CSS, Visual Studio Code
 
 
-# Languages
+## Languages
 Php
 
-# ThingsToDo
+## ThingsToDo
 >Make a File API_KEY.php and Add below code to that file and replace API_KEY_HERE with your api key
-    <?php echo "API_KEY_HERE";?>
+    /</?php echo "API_KEY_HERE"; /?/>
 
-# Keypoints:
+## Keypoints:
 * App has an option to select unit of temperature i.e; Celcius or Fahrenheit
 * App has search option which autocompletes the places as we enter the address
 * It also locates the user automatically and give results
