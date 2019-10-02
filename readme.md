@@ -25,3 +25,13 @@ Make a File API_KEY.php and Add below code to that file and replace API_KEY_HERE
 * It shows everyday daily forecast of a week and of one previous day
 * It also shows hourly forecasting of 48 hours
 * It has adaptive icons which automatically changes according to the weather change
+
+## screen 1
+![alt text](https://github.com/rahul26021999/Weather-Outlook/blob/master/screens/screen1.PNG)
+
+## screen 2
+![alt text](https://github.com/rahul26021999/Weather-Outlook/blob/master/screens/screen2.PNG)
+
+## screen
+![alt text](https://github.com/rahul26021999/Weather-Outlook/blob/master/screens/screen3.PNG)
+
