@@ -27,11 +27,11 @@ Make a File API_KEY.php and Add below code to that file and replace API_KEY_HERE
 * It has adaptive icons which automatically changes according to the weather change
 
 ## screen 1
-![alt text](https://github.com/rahul26021999/Weather-Outlook/blob/master/screens/screen1.PNG)
+<img src="" height="100px"/>
 
 ## screen 2
-![alt text](https://github.com/rahul26021999/Weather-Outlook/blob/master/screens/screen2.PNG)
+<img src="" height="100px"/>
 
 ## screen
-![alt text](https://github.com/rahul26021999/Weather-Outlook/blob/master/screens/screen3.PNG)
+<img src="" height="100px"/>
 
